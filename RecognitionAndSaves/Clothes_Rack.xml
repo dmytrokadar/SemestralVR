@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Gesture Name = "Clothes_Rack">
+	<Stroke>
+		<Point X = "597.7991" Y = "404.5901" T = "0" Pressure = "0" />
+		<Point X = "597.8011" Y = "404.5238" T = "0" Pressure = "0" />
+		<Point X = "597.8109" Y = "404.4562" T = "0" Pressure = "0" />
+		<Point X = "597.8267" Y = "404.3943" T = "0" Pressure = "0" />
+		<Point X = "597.8467" Y = "404.3142" T = "0" Pressure = "0" />
+		<Point X = "597.874" Y = "404.1908" T = "0" Pressure = "0" />
+		<Point X = "597.9113" Y = "404.0703" T = "0" Pressure = "0" />
+		<Point X = "597.9604" Y = "403.9073" T = "0" Pressure = "0" />
+		<Point X = "598.0269" Y = "403.6402" T = "0" Pressure = "0" />
+		<Point X = "598.1185" Y = "403.2704" T = "0" Pressure = "0" />
+		<Point X = "598.2672" Y = "402.6183" T = "0" Pressure = "0" />
+		<Point X = "598.575" Y = "401.2869" T = "0" Pressure = "0" />
+		<Point X = "599.4638" Y = "397.6172" T = "0" Pressure = "0" />
+	</Stroke>
+</Gesture>
